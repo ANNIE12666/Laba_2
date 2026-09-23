@@ -14,3 +14,14 @@
 Числа могут быть как целыми, так и дробными  
 Результат должен быть выведен с двумя знаками после запятой
 ## Результаты тестирования
+Тест 1  
+<img width="578" height="331" alt="image" src="https://github.com/user-attachments/assets/aa93b091-c2cc-439f-bb6a-114408d66951" />  
+  
+Тест 2  
+<img width="851" height="447" alt="image" src="https://github.com/user-attachments/assets/0af659fe-a492-4ca2-a404-63825c09ed66" />  
+  
+Тест 3  
+<img width="920" height="361" alt="image" src="https://github.com/user-attachments/assets/3b1d3d92-a498-40f3-bdfc-95d580888f4b" />  
+
+
+
